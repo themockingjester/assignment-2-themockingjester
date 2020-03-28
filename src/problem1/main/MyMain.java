@@ -15,7 +15,7 @@ public class MyMain {
         tree.insert(10);
         tree.insert(96);
         tree.insert(12);
-        System.out.println(1);
+        System.out.println(122);
         tree.insert(73);
         tree.insert(14);
         System.out.println("ALL Left Nodes are:");
